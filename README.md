@@ -1,3 +1,3 @@
 # 2025-OPDTL
 
-Here is some source code from our experience in OPDTL course.
+Here is some source code from our experiment in OPDTL course.
